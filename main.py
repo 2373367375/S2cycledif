@@ -19,7 +19,7 @@ learning_rate = 0.0001
 """
 root = '/media/xidian/55bc9b72-e29e-4dfa-b83e-0fbd0d5a7677/xd132/yyh/FPF_revise/dataset/Huston'
 
-batch_size = 32
+batch_size = 8
 epochs = 500
 
 
